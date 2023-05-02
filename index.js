@@ -3,8 +3,7 @@ const app = express()
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 
-/* const categories = require('./data/categories.json');
-const news = require('./data/news.json'); */
+const recipes = require('./data/recipes.json');
 
 app.use(cors());
 
@@ -14,10 +13,12 @@ app.get('/', (req, res) => {
 
 
 
-/* app.get('/categories',(req, res)=>{
-    res.send(categories)
+app.get('/recipes',(req, res)=>{
+    res.send(recipes)
 });
 
+
+/*
 app.get('/categories/:id', (req ,res)=>{
   const id = parseInt(req.params.id)
   if(id === 0){

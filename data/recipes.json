@@ -1,0 +1,327 @@
+[
+    {
+      "id": "1",
+      "chefName": "Alvi dev",
+      "cardTitle": "Slow-Cooker Chuck Roast",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 3,
+      "chef_thumbnail": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "Description": "Mix first 10 ingredients. Place onion, green pepper and celery in a 5-qt. slow cooker; place roast over top. Pour tomato mixture over roast. Cook, covered, on low until meat is tender, 5-6 hours.",
+  
+      "recipe1": {
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour"
+        ],
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+  
+      "recipe2": {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "rating": 4.0,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+  
+      "recipe3": {
+        "recipeName": "Beef and Broc",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "rating": 5.0,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    },
+    {
+      "id": "2",
+      "chefName": "Karon ista",
+      "cardTitle": "Favorite Chicken Potpie",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 4,
+      "chef_thumbnail": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "Description": " Meanwhile, in a large skillet, cook and crumble beef with mushrooms and onion over medium-high heat until no longer pink, 6-8 minutes; drain. Stir in flour, 1/2 teaspoon pepper and 1/4 teaspoon salt until blended. Gradually stir in broth; bring to a boil. Reduce heat; simmer, uncovered, until thickened, about 5 minutes, stirring occasionally.",
+  
+      "recipe1": {
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour"
+        ],
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+  
+      "recipe2": {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "rating": 4.0,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+  
+      "recipe3": {
+        "recipeName": "Beef and Broc",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "rating": 5.0,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    },
+    {
+      "id": "3",
+      "chefName": "Mike Kolin",
+      "cardTitle": "Potluck Macaroni and Cheese",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 5,
+      "chef_thumbnail": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087&q=80",
+      "Description": " Preheat broiler. In a large ovenproof skillet, cook beef, onion and garlic over medium heat until beef is no longer pink, breaking up beef into crumbles; drain. Stir in water and taco seasoning; heat through. Stir in 1 cup cheese. Remove from heat.",
+  
+      "recipe1": {
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour"
+        ],
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+  
+      "recipe2": {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "rating": 4.0,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+  
+      "recipe3": {
+        "recipeName": "Beef and Broc",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "rating": 5.0,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    },
+    {
+      "id": "4",
+      "chefName": "Pulark sen",
+      "cardTitle": "Traditional Meat Loaf",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 3,
+      "chef_thumbnail": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "Description": "Bake fries according to package directions. Meanwhile, in a large skillet, cook beef over medium heat until no longer pink, 5-7 minutes, breaking into crumbles; drain. Return to pan. Add water and taco seasoning. Cook and stir until sauce thickens, about 3 minutes.",
+  
+      "recipe1": {
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour"
+        ],
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+  
+      "recipe2": {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "rating": 4.0,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+  
+      "recipe3": {
+        "recipeName": "Beef and Broc",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "rating": 5.0,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    },
+    {
+      "id": "5",
+      "chefName": "Rivon osi",
+      "cardTitle": "Hungarian Chicken Paprikash",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 5,
+      "chef_thumbnail": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "Description": "Crumble beef and chorizo into a large skillet; cook over medium heat until no longer pink. Drain well. In a greased 13x9-in. baking dish, layer the meat mixture, refried beans, chiles, cheese and taco sauce. Bake, uncovered, at 400° for 20 minutes.",
+  
+      "recipe1": {
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour"
+        ],
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+  
+      "recipe2": {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "rating": 4.0,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+  
+      "recipe3": {
+        "recipeName": "Beef and Broc",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "rating": 5.0,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    },
+    {
+      "id": "6",
+      "chefName": "Gijban dar",
+      "cardTitle": "Shrimp Quesadilla",
+      "yearsOfExperience": 9,
+      "numberOfRecipes": 6,
+      "chef_thumbnail": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "Description": "Preheat oven to 350°. In a large skillet, cook and crumble beef over medium heat until no longer pink, 5-7 minutes; drain. Stir in taco seasoning and water; bring to a boil. Reduce heat; simmer, uncovered, until thickened, about 5 minutes, stirring occasionally.",
+  
+      "recipe1": {
+        "recipeName": "Classic Chocolate Chip Cookies",
+        "ingredients": [
+          "butter",
+          "white sugar",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "all-purpose flour"
+        ],
+        "rating": 4.5,
+        "cookingMethod": "1. Preheat the oven to 375°F. \n2. Cream together the butter, white sugar, and brown sugar until smooth. \n3. Beat in the eggs one at a time, then stir in the vanilla. \n4. Combine the flour, baking soda, and salt; gradually stir into the creamed mixture. \n5. Fold in the chocolate chips."
+      },
+  
+      "recipe2": {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onion",
+          "garlic",
+          "mushrooms",
+          "beef broth",
+          "sour cream",
+          "egg noodles"
+        ],
+        "rating": 4.0,
+        "cookingMethod": "1. Slice the beef into thin strips. \n2. In a large skillet, cook the beef until browned. Remove from the skillet and set aside. \n3. In the same skillet, cook the onion and garlic until softened. Add the mushrooms and cook until they release their liquid. \n4. Add the beef broth to the skillet and bring to a simmer. \n5. Stir in the sour cream and return the beef to the skillet."
+      },
+  
+      "recipe3": {
+        "recipeName": "Beef and Broc",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "cornstarch",
+          "sugar",
+          "garlic",
+          "ginger"
+        ],
+        "rating": 5.0,
+        "cookingMethod": "1. Cut the beef into thin strips. \n2. In a small bowl, whisk together the soy sauce, cornstarch, and sugar. \n3. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the pan. \n4. Add the beef and stir fry for. \n5. Stir in the sour cream and return the beef to the skillet."
+      }
+    }
+  ]
+  

@@ -17,6 +17,12 @@ app.get('/recipes',(req, res)=>{
     res.send(recipes)
 });
 
+app.get('/recipes/:id', (req ,res)=>{
+  const id = req.params.id
+  const singleRecipes = recipes.find(r=> r.id === id)
+  res.send(singleRecipes)
+})
+
 
 /*
 app.get('/categories/:id', (req ,res)=>{
@@ -29,7 +35,7 @@ app.get('/categories/:id', (req ,res)=>{
     res.send(categoryNews)
   }
 })
-
+/*
 
 
 app.get('/news', (req, res)=>{
